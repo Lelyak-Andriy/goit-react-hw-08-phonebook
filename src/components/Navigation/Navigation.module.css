@@ -1,0 +1,7 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 900;
+  color: black;
+}
